@@ -1,5 +1,4 @@
 # Vishnu Sahasranamam
-
 ōṃ śuklāmbaradharaṃ viṣṇuṃ śaśivarṇaṃ chaturbhujam ।   
 prasannavadanaṃ dhyāyēt sarvavighnōpaśāntayē ॥ 1 ॥
 
@@ -42,7 +41,7 @@ anādi nidhanaṃ viṣṇuṃ sarvalōka mahēśvaram ।
 lōkādhyakṣaṃ stuvannityaṃ sarva duḥkhātigō bhavēt ॥ 12 ॥
 
 brahmaṇyaṃ sarva dharmajñaṃ lōkānāṃ kīrti vardhanam ।   
-lōkanāthaṃ mahadbhūtaṃ sarvabhūta bhavōdbhavam॥ 13 ॥
+lōkanāthaṃ mahadbhūtaṃ sarvabhūta bhavōdbhavam ॥ 13 ॥
 
 ēṣa mē sarva dharmāṇāṃ dharmō'dhika tamōmataḥ ।   
 yadbhaktyā puṇḍarīkākṣaṃ stavairarchēnnaraḥ sadā ॥ 14 ॥
@@ -456,9 +455,9 @@ rathāṅgapāṇirakṣōbhyaḥ sarvapraharaṇāyudhaḥ ॥ 107 ॥
 
 phalaśrutiḥ
 itīdaṃ kīrtanīyasya kēśavasya mahātmanaḥ ।   
-nāmnāṃ sahasraṃ divyānāmaśēṣēṇa prakīrtitam। ॥ 1 ॥
+nāmnāṃ sahasraṃ divyānāmaśēṣēṇa prakīrtitam ॥ 1 ॥
 
-ya idaṃ śṛṇuyānnityaṃ yaśchāpi parikīrtayēt॥
+ya idaṃ śṛṇuyānnityaṃ yaśchāpi parikīrtayēt ।   
 nāśubhaṃ prāpnuyāt kiñchitsō'mutrēha cha mānavaḥ ॥ 2 ॥
 
 vēdāntagō brāhmaṇaḥ syāt kṣatriyō vijayī bhavēt ।   
@@ -471,7 +470,7 @@ bhaktimān yaḥ sadōtthāya śuchistadgatamānasaḥ ।
 sahasraṃ vāsudēvasya nāmnāmētat prakīrtayēt ॥ 5 ॥
 
 yaśaḥ prāpnōti vipulaṃ yātiprādhānyamēva cha ।   
-achalāṃ śriyamāpnōti śrēyaḥ prāpnōtyanuttamam। ॥ 6 ॥
+achalāṃ śriyamāpnōti śrēyaḥ prāpnōtyanuttamam ॥ 6 ॥
 
 na bhayaṃ kvachidāpnōti vīryaṃ tējaścha vindati ।   
 bhavatyarōgō dyutimān balarūpa guṇānvitaḥ ॥ 7 ॥
@@ -483,7 +482,7 @@ durgāṇyatitaratyāśu puruṣaḥ puruṣōttamam ।
 stuvannāmasahasrēṇa nityaṃ bhaktisamanvitaḥ ॥ 9 ॥
 
 vāsudēvāśrayō martyō vāsudēvaparāyaṇaḥ ।   
-sarvapāpaviśuddhātmā yāti brahma sanātanam। ॥ 10 ॥
+sarvapāpaviśuddhātmā yāti brahma sanātanam ॥ 10 ॥
 
 na vāsudēva bhaktānāmaśubhaṃ vidyatē kvachit ।   
 janmamṛtyujarāvyādhibhayaṃ naivōpajāyatē ॥ 11 ॥
@@ -498,7 +497,7 @@ dyauḥ sachandrārkanakṣatrā khaṃ diśō bhūrmahōdadhiḥ ।
 vāsudēvasya vīryēṇa vidhṛtāni mahātmanaḥ ॥ 14 ॥
 
 sasurāsuragandharvaṃ sayakṣōragarākṣasam ।   
-jagadvaśē vartatēdaṃ kṛṣṇasya sa charācharam। ॥ 15 ॥
+jagadvaśē vartatēdaṃ kṛṣṇasya sa charācharam ॥ 15 ॥
 
 indriyāṇi manōbuddhiḥ sattvaṃ tējō balaṃ dhṛtiḥ ।   
 vāsudēvātmakānyāhuḥ, kṣētraṃ kṣētrajña ēva cha ॥ 16 ॥
@@ -519,7 +518,7 @@ imaṃ stavaṃ bhagavatō viṣṇōrvyāsēna kīrtitam ।
 paṭhēdya ichchētpuruṣaḥ śrēyaḥ prāptuṃ sukhāni cha ॥ 21 ॥
 
 viśvēśvaramajaṃ dēvaṃ jagataḥ prabhumavyayam ।  
-bhajanti yē puṣkarākṣaṃ na tē yānti parābhavam ॥ 22 ॥
+bhajanti yē puṣkarākṣaṃ na tē yānti parābhavam ॥ 22 ॥  
 na tē yānti parābhavaṃ ōṃ nama iti ।   
 
 **arjuna uvācha**  
@@ -528,12 +527,12 @@ bhaktānā manuraktānāṃ trātā bhava janārdana ॥ 23 ॥
 
 **śrībhagavānuvācha**  
 yō māṃ nāmasahasrēṇa stōtumichChati pāṇḍava ।   
-sō'hamēkēna ślōkēna stuta ēva na saṃśayaḥ ॥ 24 ॥
+sō'hamēkēna ślōkēna stuta ēva na saṃśayaḥ ॥ 24 ॥  
 stuta ēva na saṃśaya ōṃ nama iti ।   
 
 **vyāsa uvācha**  
 vāsanādvāsudēvasya vāsitaṃ bhuvanatrayam ।   
-sarvabhūtanivāsō'si vāsudēva namō'stu tē ॥ 25 ॥
+sarvabhūtanivāsō'si vāsudēva namō'stu tē ॥ 25 ॥  
 śrīvāsudēva namōstuta ōṃ nama iti ।   
 
 **pārvatyuvācha**  
@@ -556,7 +555,7 @@ tatra śrīrvijayō bhūtirdhruvā nītirmatirmama ॥ 29 ॥
 
 **śrī bhagavān uvācha**  
 ananyāśchintayantō māṃ yē janāḥ paryupāsatē ।   
-tēṣāṃ nityābhiyuktānāṃ yōgakṣēmaṃ vahāmyaham। ॥ 30 ॥
+tēṣāṃ nityābhiyuktānāṃ yōgakṣēmaṃ vahāmyaham ॥ 30 ॥
 
 paritrāṇāya sādhūnāṃ vināśāya cha duṣkṛtām ।   
 dharmasaṃsthāpanārthāya sambhavāmi yugē yugē ॥ 31 ॥
