@@ -101,13 +101,13 @@ prasannavadanaṃ dhyāyet sarvavighnopaśāntaye ।।</strong>
 
 ---
 
-<strong>त्वमेव माता च पिता त्वमेव
+<strong>त्वमेव माता च पिता त्वमेव  
 त्वमेव बंधुश्च सखा त्वमेव ।      
-त्वमेव विद्या द्रविणम् त्वमेव
+त्वमेव विद्या द्रविणम् त्वमेव  
 त्वमेव सर्वं मम देव देव ।</strong>
 
 <strong>tvameva mātā ca pitā tvameva ।      
-tvameva bandhuśca sakhā tvameva
+tvameva bandhuśca sakhā tvameva  
 tvameva vidyā draviṇaṃ tvameva ।      
 tvameva sarvaṃ mama devadeva ।।</strong>
 
