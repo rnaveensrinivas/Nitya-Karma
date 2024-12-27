@@ -30,8 +30,7 @@ The shlokas and stotrams are provided in **Sanskrit**, **IAST** (International A
 - **IAST**: A standardized system for the transliteration of Sanskrit into the Roman alphabet, used for accurate pronunciation.
 - **Plain English**: A simplified guide for non-native speakers, helping with basic pronunciation.
 
-
-### **Guidelines to pronunciation using plain English**
+### **Guidelines to pronunciation using Plain English**
 
 Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunciation Example:
 
@@ -83,10 +82,10 @@ Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunci
 | क्ष (kSHa)      | kṣa               | as `ksha` in akshay       |
 | श्र (shra)      | śra               | as `shr` in shroud        |
 | अः (aḥ)        | aḥ                | to be Pronounced as अ (a) |
----
 
 **Note**: ज ña - unique pronunciation used in words like `yajñam` and `jñaanam`.
 
+---
 
 ### **Guidelines to pronunciation using IAST**
 Here is the conversion from 6 columns to 3, as requested:
@@ -140,7 +139,7 @@ Here is the conversion from 6 columns to 3, as requested:
 | ञ              | ña       | as `ksha` in akshay       |
 | क्ष             | kṣa      | as `ksha` in akshay       |
 | श्र             | śra      | as `shr` in shroud        |
----
 
 **Note**: For ङ (`ṅa`), it is silent and appears in conjunction with combinations like `nga, nka, etc.`.
 
+---
