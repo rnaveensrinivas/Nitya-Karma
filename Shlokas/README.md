@@ -1,9 +1,8 @@
 # On Waking up
 
-```
-कराग्रे वसते लक्ष्मिः करमध्ये सरस्वति ।        
+<strong>कराग्रे वसते लक्ष्मिः करमध्ये सरस्वति ।        
 करमूले तु गोविन्दः प्रभाते करदर्शनम् ।।  
-```
+</strong>
 
 <strong>karāgre vasate lakṣmiḥ karamadhye sarasvati ।        
 karamūle tu govindaḥ prabhāte karadarśanam ।।</strong>
@@ -12,10 +11,8 @@ karamūle tu govindaḥ prabhāte karadarśanam ।।</strong>
 
 # Before you step on the floor
 
-```
-समुद्रवसने देवि पर्वतस्तनमण्डले ।      
-विष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्वमे ।।  
-```
+<strong>समुद्रवसने देवि पर्वतस्तनमण्डले ।      
+विष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्वमे ।।</strong>
 
 <strong>samudravasane devi parvatastanamaṇḍale ।      
 viṣṇupatni namastubhyaṃ pādasparśaṃ kṣamasvame ।।</strong>
@@ -23,10 +20,10 @@ viṣṇupatni namastubhyaṃ pādasparśaṃ kṣamasvame ।।</strong>
 *O Goddess, dressed with the oceans, bedecked at the front with mountains, I bow to Thee, O consort of Vishnu, excuse my touching you with my feet.* 
 
 # While taking a bath
-```
-गोविंदेति सदा स्नानं गोविंदेति सदाजपं ।      
-गोविंदेति सदा ध्यानं सदा गोविंद कीर्तनम् ।।  
-```
+
+<strong>गोविंदेति सदा स्नानं गोविंदेति सदाजपं ।      
+गोविंदेति सदा ध्यानं सदा गोविंद कीर्तनम् ।।</strong>
+
 <strong>goviṃdeti sadā snānaṃ goviṃdeti sadājapaṃ ।      
 goviṃdeti sadā dhyānaṃ sadā goviṃda kīrtanam ।।</strong>
 
@@ -34,20 +31,19 @@ goviṃdeti sadā dhyānaṃ sadā goviṃda kīrtanam ।।</strong>
 
 ---
 
-```
-गङ्गे च यमुने चैव गोदावरि सरस्वति ।      
-नर्मदे सिन्धु कावेरि जलेऽस्मिन् संनिधिं कुरु ।।  
-```
+</strong>गङ्गे च यमुने चैव गोदावरि सरस्वति ।      
+नर्मदे सिन्धु कावेरि जलेऽस्मिन् संनिधिं कुरु ।।</strong>
+
 <strong>gaṅge ca yamune caiva godāvari sarasvati ।      
 narmade sindhu kāveri jale’smin saṃnidhiṃ kuru ।।</strong>
 
 *Ganga, Yamuna, Godavari, Saraswathi, Narmada, Sindhu, Kaveri, May all these have a holy confluence in this water.* 
 
 # Seeing the Sun
-```
-आधित्य ह्रुधाय पुण्यं सर्व सथृ विनासनं
-जयावहं जबे नित्यं अक्षयं परमं शिवं ।।
-```
+
+<strong>आधित्य ह्रुधाय पुण्यं सर्व सथृ विनासनं  
+जयावहं जबे नित्यं अक्षयं परमं शिवं ।।</strong>
+
 <strong>ādhitya hrudhāya puṇyaṃ sarva sathṛ vināsanaṃ  
 jayāvahaṃ jabe nityaṃ akṣayaṃ paramaṃ śivaṃ ।।</strong>
 
@@ -55,10 +51,9 @@ jayāvahaṃ jabe nityaṃ akṣayaṃ paramaṃ śivaṃ ।।</strong>
 
 ---
 
-```
-ॐ भूर् भुवः स्वः तत् सवितुर्वरेण्यं
-भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ।।
-```
+<strong>ॐ भूर् भुवः स्वः तत् सवितुर्वरेण्यं  
+भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ।।</strong>
+
 <strong>oṃ bhūr bhuvaḥ svaḥ tat saviturvareṇyaṃ  
 bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt ।।</strong>
 
@@ -66,10 +61,9 @@ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt ।।</strong>
 
 # Seeing the Guru
 
-```
-श्रुति-स्मृति-पुराणानाम् आलयं करुणालयम् ।  
-नमामि भगवत्पाद- शङ्करं लोकशङ्करम् ।।
-```
+<strong>श्रुति-स्मृति-पुराणानाम् आलयं करुणालयम् ।  
+नमामि भगवत्पाद- शङ्करं लोकशङ्करम् ।।</strong>
+
 <strong>śruti-smṛti-purāṇānām ālayaṃ karuṇālayam ।  
 namāmi bhagavatpāda- śaṅkaraṃ lokaśaṅkaram ।।</strong>
 
@@ -77,10 +71,9 @@ namāmi bhagavatpāda- śaṅkaraṃ lokaśaṅkaram ।।</strong>
 
 ---
 
-```
-सदाशिव-समारम्भां शङ्कराचार्य-मध्यमाम् ।  
-अस्मदाचार्य-पर्यन्तां वन्दे गुरु-परम्पराम् ।।
-```
+<strong>सदाशिव-समारम्भां शङ्कराचार्य-मध्यमाम् ।  
+अस्मदाचार्य-पर्यन्तां वन्दे गुरु-परम्पराम् ।।</strong>
+
 <strong>sadāśiva-samārambhāṃ śaṅkarācārya-madhyamām ।  
 asmadācārya-paryantāṃ vande guru-paramparām ।।</strong>
 
@@ -88,20 +81,19 @@ asmadācārya-paryantāṃ vande guru-paramparām ।।</strong>
 
 ---
 
-```
-गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः ।  
-गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः ।।
-```
+<strong>गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः ।  
+गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः ।।</strong>
+
 <strong>gururbrahmā gururviṣṇuḥ gururdevo maheśvaraḥ ।  
 guruḥ sākṣāt paraṃ brahma tasmai śrīgurave namaḥ ।। </strong>
 
 *Guru is Brahma, Vishnu and Mahesha, in fact guru is Prabrahma himself, the Brahman, the Absolute. Salutations to such guru.*
 
 # Morning Prayers
-```
-शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।      
-प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ।।  
-```
+
+<strong>शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।      
+प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ।।</strong>
+
 <strong>śuklāmbaradharaṃ viṣṇuṃ śaśivarṇaṃ caturbhujam ।      
 prasannavadanaṃ dhyāyet sarvavighnopaśāntaye ।।</strong>
 
@@ -109,12 +101,11 @@ prasannavadanaṃ dhyāyet sarvavighnopaśāntaye ।।</strong>
 
 ---
 
-```
-त्वमेव माता च पिता त्वमेव
+<strong>त्वमेव माता च पिता त्वमेव
 त्वमेव बंधुश्च सखा त्वमेव ।      
 त्वमेव विद्या द्रविणम् त्वमेव
-त्वमेव सर्वं मम देव देव ।      
-```
+त्वमेव सर्वं मम देव देव ।</strong>
+
 <strong>tvameva mātā ca pitā tvameva ।      
 tvameva bandhuśca sakhā tvameva
 tvameva vidyā draviṇaṃ tvameva ।      
@@ -124,10 +115,9 @@ tvameva sarvaṃ mama devadeva ।।</strong>
 
 ---
 
-```
-कायेन वाचा मनसेंद्रियैर्वा बुध्यात्मना वा प्रकृतेः स्वभावात् ।      
-करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ।।  
-```
+<strong>कायेन वाचा मनसेंद्रियैर्वा बुध्यात्मना वा प्रकृतेः स्वभावात् ।      
+करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ।।</strong>
+
 <strong>kāyena vācā manaseṃdriyairvā budhyātmanā vā prakṛteḥ svabhāvāt ।      
 karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi ।।</strong>
 
@@ -135,12 +125,11 @@ karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi ।।</strong>
 
 --- 
 
-``` 
-ॐ असतो मा सद्गमय ।       
+<strong>ॐ असतो मा सद्गमय ।       
 तमसो मा ज्योतिर्गमय ।।     
 मृत्योर्मा अमृतं गमय ।       
-ॐ शान्तिः शान्तिः शान्तिः ।।  
-```
+ॐ शान्तिः शान्तिः शान्तिः ।।</strong>
+
 <strong>Om asato mā sadgamaya 
 tamasomā jyotir gamaya
 mrityormāamritam gamaya 
@@ -149,10 +138,9 @@ Oṁ śhānti śhānti śhāntiḥ </strong>
 *Lead me from the unreal to the real, lead me from darkness to light, lead me from death to immortality.*
 
 # Before any meal
-```
-ब्रह्मार्पणं ब्रह्म हविः ब्रह्माग्नौ ब्रह्मणा हुतम् ।      
-ब्रह्मैव तेन गंतव्यं ब्रह्मकर्म समाधिना ।।  
-```
+<strong>ब्रह्मार्पणं ब्रह्म हविः ब्रह्माग्नौ ब्रह्मणा हुतम् ।      
+ब्रह्मैव तेन गंतव्यं ब्रह्मकर्म समाधिना ।।</strong>
+
 <strong>brahmārpaṇaṃ brahma haviḥ brahmāgnau brahmaṇā hutam ।      
 brahmaiva tena gaṃtavyaṃ brahmakarma samādhinā ।।</strong>
 
@@ -163,10 +151,8 @@ This verse from the Bhagavad Gita (Chapter 4, Verse 24) which means: Brahman is 
 </i>
 
 # Before Study
-```
-सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।      
-विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ।।  
-```
+<strong>सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।      
+विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ।।</strong>
 
 <strong>sarasvati namastubhyaṃ varade kāmarūpiṇi ।      
 vidyārambhaṃ kariṣyāmi siddhirbhavatu me sadā ।।</strong>
@@ -174,22 +160,20 @@ vidyārambhaṃ kariṣyāmi siddhirbhavatu me sadā ।।</strong>
 *Salutation to you, O Saraswathi, grantor of blessings and embodimentof all wishes, I am getting inducted to studies, may there be fulfilment for me forever.*
 
 # Before an important task
-```
-वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।      
-निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ।।  
-```
+<strong>वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।      
+निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ।।</strong>
+
 <strong>vakratuṇḍa mahākāya sūryakoṭi samaprabha ।  
 nirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ।।</strong>
 
-*O god with the twisted trunk, broad-bodied, brilliant as thousand suns, bless me with freedom from obstructions and hindrances in all my works and for all times. *
+*O god with the twisted trunk, broad-bodied, brilliant as thousand suns, bless me with freedom from obstructions and hindrances in all my works and for all times.*
 
 # Before going to bed
-```
-करचरण कृतं वाक्कायजं कर्मजं वा ।      
+<strong> करचरण कृतं वाक्कायजं कर्मजं वा ।      
 श्रवणनयनजं वा मानसं वापराधं ।      
 विहितमविहितं वा सर्वमेतत्क्षमस्व ।      
-जय जय करुणाब्धे श्रीमहादेव शम्भो ।।  
-```
+जय जय करुणाब्धे श्रीमहादेव शम्भो ।।</strong>
+
 <strong>karacaraṇa kṛtaṃ vākkāyajaṃ karmajaṃ vā ।      
 śravaṇanayanajaṃ vā mānasaṃ vāparādhaṃ ।      
 vihitamavihitaṃ vā sarvametatkṣamasva ।      
@@ -207,10 +191,8 @@ oṃ śāntiḥ śāntiḥ śāntiḥ ।।</strong>
 
 --- 
 
-```
-रामं स्कन्धं हनुमन्तं वैनतेयं वृकोदरं । 
-शयने यः स्मरेन्नित्यम् दुस्वप्न-स्तस्यनश्यति ।।
-```
+<strong>रामं स्कन्धं हनुमन्तं वैनतेयं वृकोदरं ।  
+शयने यः स्मरेन्नित्यम् दुस्वप्न-स्तस्यनश्यति ।।</strong>
 
 <strong>rāmaṃ skandhaṃ hanumantaṃ vainateyaṃ vṛkodaraṃ ।  
 śayane yaḥ smarennityam dusvapna-stasyanaśyati ।।</strong>
@@ -219,23 +201,20 @@ oṃ śāntiḥ śāntiḥ śāntiḥ ।।</strong>
 
 # Muruga
 
-```
-ஏறு மயிலேறி விளையாடு முக மொன்றே
+<strong>ஏறு மயிலேறி விளையாடு முக மொன்றே  
 ஈசருடன் ஞானமொழி பேசு முக மொன்றே
 
-கூறுமடி யார்கள் வினை தீர்க்கு முக மொன்றே
+கூறுமடி யார்கள் வினை தீர்க்கு முக மொன்றே  
 குன்றுருவ வேல்வாங்கி நின்ற முக மொன்றே
 
-மாறுபடு சூரரை வதைத்த முக மொன்றே
+மாறுபடு சூரரை வதைத்த முக மொன்றே  
 வள்ளியை மணம்புணர வந்த முக மொன்றே
 
-ஆறுமுக மானபொருள் நீயருளல் வேண்டும்
-ஆதியரு ணாசல மமர்ந்த பெருமாளே
-```
+ஆறுமுக மானபொருள் நீயருளல் வேண்டும்  
+ஆதியரு ணாசல மமர்ந்த பெருமாளே</strong>
 
 <strong>ERumayil ERiviLai yAdu mugam ondRE  
 eesarudan njAnamozhi pEsu mugam ondRE  
-
 
 kURumadi yArgaLvinai theerku mugam ondRE  
 kundRuruva vElvAngi nindRa mugam ondRE
@@ -262,11 +241,10 @@ Thus the six deeds could be linked to the six abodes of Lord Muruga. This Tirupp
 
 # Purnamadha Purnamidam
 
-```
-ॐ पूर्णमदः पूर्णमिदम् पूर्णात् पूर्णमुदच्यते |
-पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ||
-ॐ शान्तिः शान्तिः शान्तिः ||
-```
+<strong>ॐ पूर्णमदः पूर्णमिदम् पूर्णात् पूर्णमुदच्यते ।  
+पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ।।  
+ॐ शान्तिः शान्तिः शान्तिः ।।</strong>
+
 <strong>oṃ pūrṇamadaḥ pūrṇamidam pūrṇāt pūrṇamudacyate ।  
 pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ।।  
 oṃ śāntiḥ śāntiḥ śāntiḥ ।।</strong>
@@ -275,10 +253,9 @@ oṃ śāntiḥ śāntiḥ śāntiḥ ।।</strong>
 
 # Ahaara Nidra
 
-```
-अहार निद्रा भय मैथुनं च सामान्यमेतत् पशुभिर्नराणाम् ।
-धर्मो हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ।।
-```
+<strong>अहार निद्रा भय मैथुनं च सामान्यमेतत् पशुभिर्नराणाम् ।  
+धर्मो हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ।।</strong>
+
 <strong>ahāra nidrā bhaya maithunaṃ ca sāmānyametat paśubhirnarāṇām ।  
 dharmaḥ hi teṣāmadhiko viśeṣo dharmeṇa hīnāḥ paśubhiḥ samānāḥ ।।</strong>
 
