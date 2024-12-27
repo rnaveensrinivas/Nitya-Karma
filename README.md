@@ -1,69 +1,116 @@
 # Nitya Karma
 Repository containing files and resources for my daily Nitya Karma practices and rituals.
 
-## **Guidelines to pronunciation - Plain English**
+## **Guidelines to pronunciation using plain English**
 
-| **Letter** | **Pronunciation Example** | **Letter** | **Pronunciation Example** |
-|------------|----------------------------|------------|----------------------------|
-| अ (a)      | as `u` in Sun              | ड (Da)     | as `d` in mud             |
-| आ (aa)     | as `a` in Rama             | ढ (DHa)    | as `dh` in godhood        |
-| इ (i)      | as `i` in in               | न (Na)     | as `n` in fun             |
-| ई (ee)     | as `ee` in peel            | त (ta)     | as `th` in teeth          |
-| उ (u)      | as `u` in pull             | थ (tha)    | as `th` in thump          |
-| ऊ (oo)     | as `oo` in root            | द (da)     | as `th` in that           |
-| ऋ (R)      | as `ri` in harsh           | ध (dha)    | as `dh` in dhanush        |
-| ए (E)      | as `e` in name             | न (na)     | as `n` in nut             |
-| ऐ (ai)     | as `ai` in night           | प (pa)     | as `p` in pup             |
-| ओ (O)      | as `o` in gold             | फ (pha)    | as `ph` in loophole       |
-| औ (au)     | as `ow` in now             | ब (ba)     | as `b` in bun             |
-| क (ka)     | as `k` in park             | भ (bha)    | as `bh` in abhor          |
-| ख (kha)    | as `ckh` in blockhead      | म (ma)     | as `m` in mother          |
-| ग (ga)     | as `g` in gun              | य (ya)     | as `y` in yard            |
-| घ (gha)    | as `gh` in ghee            | र (ra)     | as `r` in Ravi            |
-| ङ (ṅa)     | remains silent & appears   | ल (la)     | as `l` in luck            |
-|            | along with `nga, nka, etc.`| व (va)     | as `w` in work            |
-| च (cha)    | as `ch` in touch           | श (sha)    | as `sh` in Shankar        |
-| छ (CHa)    | as `ch` in pitcher         | ष (SHa)    | as `sh` in fish           |
-| ज (ja)     | as `j` in jug              | स (sa)     | as `s` in Sun             |
-| झ (jha)    | as `dgeh` in hedgehog      | क्ष (kSHa) | as `ksha` in akshay       |
-| ञ (jna)    | same as `jña`              | ल (La)     | as `l` in collect         |
-| ट (Ta)     | as `t` in cut              | श्र (shra) | as `shr` in shroud        |
-| ठ (THa)    | as `th` in anthill         | अः (aḥ)    | to be Pronounced as अ (a) |
+Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunciation Example:
 
+| **Devanagari** | **Plain English** | **Pronunciation Example** |
+|----------------|-------------------|---------------------------|
+| अ (a)          | a                 | as `u` in Sun             |
+| आ (aa)         | aa                | as `a` in Rama            |
+| इ (i)          | i                 | as `i` in in              |
+| ई (ee)         | ee                | as `ee` in peel           |
+| उ (u)          | u                 | as `u` in pull            |
+| ऊ (oo)         | oo                | as `oo` in root           |
+| ऋ (R)          | ṛ                 | as `ri` in harsh          |
+| ए (E)          | e                 | as `e` in name            |
+| ऐ (ai)         | ai                | as `ai` in night          |
+| ओ (O)          | o                 | as `o` in gold            |
+| औ (au)         | au                | as `ow` in now            |
+| क (ka)         | ka                | as `k` in park            |
+| ख (kha)        | kha               | as `ckh` in blockhead     |
+| ग (ga)         | ga                | as `g` in gun             |
+| घ (gha)        | gha               | as `gh` in ghee           |
+| ङ (ṅa)         | ṅa                | remains silent & appears along with `nga, nka, etc.` |
+| च (cha)        | cha               | as `ch` in touch          |
+| छ (CHa)        | cha               | as `ch` in pitcher        |
+| ज (ja)         | ja                | as `j` in jug             |
+| झ (jha)        | jha               | as `dgeh` in hedgehog     |
+| ञ (jna)        | jña               | same as `jña`             |
+| ट (Ta)         | ṭa                | as `t` in cut             |
+| ठ (THa)        | ṭha               | as `th` in anthill        |
+| ड (Da)         | da                | as `d` in mud             |
+| ढ (DHa)        | ḍha               | as `dh` in godhood        |
+| न (Na)         | na                | as `n` in fun             |
+| त (ta)         | ta                | as `th` in teeth          |
+| थ (tha)        | tha               | as `th` in thump          |
+| द (da)         | da                | as `th` in that           |
+| ध (dha)        | dha               | as `dh` in dhanush        |
+| न (na)         | na                | as `n` in nut             |
+| प (pa)         | pa                | as `p` in pup             |
+| फ (pha)        | pha               | as `ph` in loophole       |
+| ब (ba)         | ba                | as `b` in bun             |
+| भ (bha)        | bha               | as `bh` in abhor          |
+| म (ma)         | ma                | as `m` in mother          |
+| य (ya)         | ya                | as `y` in yard            |
+| र (ra)         | ra                | as `r` in Ravi            |
+| ल (la)         | la                | as `l` in luck            |
+| व (va)         | va                | as `w` in work            |
+| श (sha)        | śa                | as `sh` in Shankar        |
+| ष (SHa)        | ṣa                | as `sh` in fish           |
+| स (sa)         | sa                | as `s` in Sun             |
+| क्ष (kSHa)      | kṣa               | as `ksha` in akshay       |
+| श्र (shra)      | śra               | as `shr` in shroud        |
+| अः (aḥ)        | aḥ                | to be Pronounced as अ (a) |
 ---
 
 **Note**: ज ña - unique pronunciation used in words like `yajñam` and `jñaanam`.
 
 
-## **Guidelines to pronunciation - IAST**
+## **Guidelines to pronunciation using IAST**
+Here is the conversion from 6 columns to 3, as requested:
 
-| **Devanagari** | **Pronunciation Example**   | **IAST** | **Devanagari** | **Pronunciation Example**   | **IAST** |
-|----------------|------------------------------|----------|----------------|------------------------------|----------|
-| अ              | as `u` in Sun               | a        | ड              | as `d` in mud               | ḍa       |
-| आ              | as `a` in Rama              | ā        | ढ              | as `dh` in godhood          | ḍha      |
-| इ              | as `i` in in                | i        | न              | as `n` in fun               | na       |
-| ई              | as `ee` in peel             | ī        | त              | as `th` in teeth            | ta       |
-| उ              | as `u` in pull              | u        | थ              | as `th` in thump            | tha      |
-| ऊ              | as `oo` in root             | ū        | द              | as `th` in that             | da       |
-| ऋ              | as `ri` in harsh            | ṛ        | ध              | as `dh` in dhanush          | dha      |
-| ए              | as `e` in name              | e        | न              | as `n` in nut               | na       |
-| ऐ              | as `ai` in night            | ai       | प              | as `p` in pup               | pa       |
-| ओ              | as `o` in gold              | o        | फ              | as `ph` in loophole         | pha      |
-| औ              | as `ow` in now              | au       | ब              | as `b` in bun               | ba       |
-| क              | as `k` in park              | ka       | भ              | as `bh` in abhor            | bha      |
-| ख              | as `ckh` in blockhead       | kha      | म              | as `m` in mother            | ma       |
-| ग              | as `g` in gun               | ga       | य              | as `y` in yard              | ya       |
-| घ              | as `gh` in ghee             | gha      | र              | as `r` in Ravi              | ra       |
-| ङ              | silent, used in combinations | ṅa       | ल              | as `l` in luck              | la       |
-| च              | as `ch` in touch            | ca       | व              | as `w` in work              | va       |
-| छ              | as `ch` in pitcher          | cha      | श              | as `sh` in Shankar          | śa       |
-| ज              | as `j` in jug               | ja       | ष              | as `sh` in fish             | ṣa       |
-| झ              | as `dgeh` in hedgehog       | jha      | स              | as `s` in Sun               | sa       |
-| ञ              | unique, in `yajña`, `jñāna` | ña       | क्ष             | as `ksha` in akshay         | kṣa      |
-| ट              | as `t` in cut               | ṭa       | ल              | as `l` in collect           | ḷa       |
-| ठ              | as `th` in anthill          | ṭha      | श्र             | as `shr` in shroud          | śra      |
-| अः             | Pronounced as अ (a)         | aḥ       |                |                              |          |
-
+| **Devanagari** | **IAST** | **Pronunciation Example** |
+|----------------|----------|---------------------------|
+| अ              | a        | as `u` in Sun             |
+| आ              | ā        | as `a` in Rama            |
+| इ              | i        | as `i` in in              |
+| ई              | ī        | as `ee` in peel           |
+| उ              | u        | as `u` in pull            |
+| ऊ              | ū        | as `oo` in root           |
+| ऋ              | ṛ        | as `ri` in harsh          |
+| ए              | e        | as `e` in name            |
+| ऐ              | ai       | as `ai` in night          |
+| ओ              | o        | as `o` in gold            |
+| औ              | au       | as `ow` in now            |
+| क              | ka       | as `k` in park            |
+| ख              | kha      | as `ckh` in blockhead     |
+| ग              | ga       | as `g` in gun             |
+| घ              | gha      | as `gh` in ghee           |
+| ङ              | ṅa       | silent, used in combinations |
+| च              | ca       | as `ch` in touch          |
+| छ              | cha      | as `ch` in pitcher        |
+| ज              | ja       | as `j` in jug             |
+| झ              | jha      | as `dgeh` in hedgehog     |
+| ञ              | ña       | unique, in `yajña`, `jñāna` |
+| ट              | ṭa       | as `t` in cut             |
+| ठ              | ṭha      | as `th` in anthill        |
+| अः             | aḥ       | Pronounced as अ (a)       |
+| ड              | ḍa       | as `d` in mud             |
+| ढ              | ḍha      | as `dh` in godhood        |
+| न              | na       | as `n` in fun             |
+| त              | ta       | as `th` in teeth          |
+| थ              | tha      | as `th` in thump          |
+| द              | da       | as `th` in that           |
+| ध              | dha      | as `dh` in dhanush        |
+| न              | na       | as `n` in nut             |
+| प              | pa       | as `p` in pup             |
+| फ              | pha      | as `ph` in loophole       |
+| ब              | ba       | as `b` in bun             |
+| भ              | bha      | as `bh` in abhor          |
+| म              | ma       | as `m` in mother          |
+| य              | ya       | as `y` in yard            |
+| र              | ra       | as `r` in Ravi            |
+| ल              | la       | as `l` in luck            |
+| व              | va       | as `w` in work            |
+| श              | śa       | as `sh` in Shankar        |
+| ष              | ṣa       | as `sh` in fish           |
+| स              | sa       | as `s` in Sun             |
+| ञ              | ña       | as `ksha` in akshay       |
+| क्ष             | kṣa      | as `ksha` in akshay       |
+| श्र             | śra      | as `shr` in shroud        |
 ---
 
 **Note**: For ङ (`ṅa`), it is silent and appears in conjunction with combinations like `nga, nka, etc.`.
+
