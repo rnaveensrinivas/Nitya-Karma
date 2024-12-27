@@ -208,7 +208,7 @@ oṃ śāntiḥ śāntiḥ śāntiḥ ।।</strong>
 --- 
 
 ```
-रामं स्कन्धं हनुमन्तं वैनतेयं वृकोदरं ।।  
+रामं स्कन्धं हनुमन्तं वैनतेयं वृकोदरं । 
 शयने यः स्मरेन्नित्यम् दुस्वप्न-स्तस्यनश्यति ।।
 ```
 
@@ -259,3 +259,28 @@ This Thiruppugazh Erumayil Eri was composed by Saint Arunagirinathar at Tiruvann
 
 Thus the six deeds could be linked to the six abodes of Lord Muruga. This Tiruppugazh also has a inner meaning which can be interpreted as, Oh Lord Muruga residing in Tiruvannamalai, please mount the peacock in my mind, preach me the true meaning as you did to your father, kindly resolve my past karmas or deeds and with a single blow of your spear destroy my attachments and reservations, also destroy the demon in me and help me realize the ultimate. 
 </i>
+
+# Purnamadha Purnamidam
+
+```
+ॐ पूर्णमदः पूर्णमिदम् पूर्णात् पूर्णमुदच्यते |
+पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ||
+ॐ शान्तिः शान्तिः शान्तिः ||
+```
+<strong>oṃ pūrṇamadaḥ pūrṇamidam pūrṇāt pūrṇamudacyate ।  
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ।।  
+oṃ śāntiḥ śāntiḥ śāntiḥ ।।</strong>
+
+*That is Whole and this is Whole, the perfect has come out of the perfect; having taken the perfect from the perfect, only the perfect remains. Let there be Peace, Peace, Peace. (This shanti-sloka of the Isavasyopanishad indicates the relation of the individual’s soul to the divine supreme spirit).*
+
+# Ahaara Nidra
+
+```
+अहार निद्रा भय मैथुनं च सामान्यमेतत् पशुभिर्नराणाम् ।
+धर्मो हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ।।
+```
+<strong>ahāra nidrā bhaya maithunaṃ ca sāmānyametat paśubhirnarāṇām ।  
+dharmaḥ hi teṣāmadhiko viśeṣo dharmeṇa hīnāḥ paśubhiḥ samānāḥ ।।</strong>
+
+*Food, sleep, fear, and procreation—these are common between animals and humans.  
+What sets humans apart is dharma (righteousness). Without dharma, humans are equal to animals.*
