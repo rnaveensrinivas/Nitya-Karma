@@ -1,7 +1,37 @@
 # Nitya Karma
-Repository containing files and resources for my daily Nitya Karma practices and rituals.
 
-## **Guidelines to pronunciation using plain English**
+This repository contains the daily rituals, shlokas, and stotrams that I perform as part of my Nitya Karma (daily practices and rituals dedicated to God). The collection is organized by category, each with a separate folder for easy navigation.
+
+## Directory Structure
+
+```
+rnaveensrinivas/Nitya-Karma/
+│
+├── Sandhyavandanam/            # Guide to Sandhyavandanam ritual
+│
+├── Stotrams/                   # Folder for various stotrams I recite
+│   ├── Nama_Ramayanam/         # Nama Ramayanam stotram
+│   ├── Vishnu_Sahasranamam/    # Vishnu Sahasranamam stotram
+│   └── Hanuman_Chalisa/        # Hanuman Chalisa
+│
+├── Shlokas/                    # Folder containing various shlokas I recite
+│
+└── README.md                   # Main README file for the repository
+```
+
+## Purpose
+
+This repository serves as a personal record of my spiritual practices. It is organized to help me keep track of the shlokas, rituals, and stotrams I practice daily, providing an easily accessible format for reference.
+
+## Pronunciation Guide
+
+The shlokas and stotrams are provided in **Sanskrit**, **IAST** (International Alphabet of Sanskrit Transliteration) and **Plain English** to assist with proper recitation.
+
+- **IAST**: A standardized system for the transliteration of Sanskrit into the Roman alphabet, used for accurate pronunciation.
+- **Plain English**: A simplified guide for non-native speakers, helping with basic pronunciation.
+
+
+### **Guidelines to pronunciation using plain English**
 
 Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunciation Example:
 
@@ -58,7 +88,7 @@ Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunci
 **Note**: ज ña - unique pronunciation used in words like `yajñam` and `jñaanam`.
 
 
-## **Guidelines to pronunciation using IAST**
+### **Guidelines to pronunciation using IAST**
 Here is the conversion from 6 columns to 3, as requested:
 
 | **Devanagari** | **IAST** | **Pronunciation Example** |
