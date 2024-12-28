@@ -32,8 +32,6 @@ The shlokas and stotrams are provided in **Sanskrit**, **IAST** (International A
 
 ### **Guidelines to pronunciation using Plain English**
 
-Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunciation Example:
-
 | **Devanagari** | **Plain English** | **Pronunciation Example** |
 |----------------|-------------------|---------------------------|
 | अ (a)          | a                 | as `u` in Sun             |
@@ -88,7 +86,7 @@ Here is the conversion to 3 columns with Devanagari, Plain English, and Pronunci
 ---
 
 ### **Guidelines to pronunciation using IAST**
-Here is the conversion from 6 columns to 3, as requested:
+* This [Youtube video](https://www.youtube.com/watch?v=UgVwzueOKRU&ab_channel=IITKharagpurJuly2018) can help with pronunciation. 
 
 | **Devanagari** | **IAST** | **Pronunciation Example** |
 |----------------|----------|---------------------------|
